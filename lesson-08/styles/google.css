@@ -1,0 +1,17 @@
+
+.google-logo-img {
+    width: 300px;
+    display: block;
+    margin-left: 660px;
+    margin-top: ;
+
+}
+
+.search-input {
+    border-style: none;
+    border-radius: 16px;
+    border-color: black;
+    box-shadow: 2px 2px 8px #808080;
+    padding: 7px;
+    margin-left: 280px;
+}
