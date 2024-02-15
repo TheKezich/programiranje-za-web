@@ -2,16 +2,26 @@
 .google-logo-img {
     width: 300px;
     display: block;
-    margin-left: 660px;
-    margin-top: ;
+    margin-left: 486px;
+    margin-top: 141px;
+}
+
+
+
+.search-input {
+    width: 500px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+    border: none;
+    border-radius: 30px;
+    padding-top: 12px;
+    padding: 10px 16px;
+    margin-left: 379px;
+    margin-top: 20px;
+    transition: padding 0.5s;
 
 }
 
-.search-input {
-    border-style: none;
-    border-radius: 16px;
-    border-color: black;
-    box-shadow: 2px 2px 8px #808080;
-    padding: 7px;
-    margin-left: 280px;
+.search-input:focus {
+    outline: none;
+    padding: 15px 20px;
 }
