@@ -1,8 +1,10 @@
+
 .product-div {
     width: 220px;
     padding: 10px;
     transition: box-shadow 0.15s;
     display: inline-block;
+    font-family: Oswald;
 }
 
 .product-div:hover {
@@ -42,6 +44,26 @@
 
 .stock-status-p {
     color: rgb(117, 175, 29);
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 600;
+}
+
+.price-p {
+    color: red;
+    font-weight: 600;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.Asus-img {
+    width: 40%;
+    margin-left: 40px;
+}
+.Acer-img {
+    width: 40%;
+    margin-left: 40px;
+}
+.Lenovo-img {
+    width: 40%;
+    margin-left: 40px;
 }
