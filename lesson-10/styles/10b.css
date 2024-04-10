@@ -1,0 +1,50 @@
+p {
+    margin: 0;
+}
+
+div {
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.div2{
+    display: inline-block;
+    width: 40px;
+}
+
+.cat-picture {
+    width: 70px;
+    border-radius: 220px;
+    vertical-align: middle;
+}
+
+.div-3 {
+    margin-left: 50px;
+    vertical-align: middle;
+}
+
+.cat-name-p {
+    font-weight: bold;
+}
+
+.desc-p, .status-p {
+    color: rgba(143,143,143,255);
+    margin-top: 8px;
+}
+
+.follow-btn {
+    margin-left: 130px;
+    border: none;
+    background-color: rgba(64,147,234,255);
+    color: white;
+    padding: 11px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+
+
+

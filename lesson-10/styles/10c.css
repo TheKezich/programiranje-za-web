@@ -1,0 +1,21 @@
+p {
+    margin-bottom: 0;
+    margin-top: 0;
+    display: inline-block;
+}
+
+.video-div {
+    background-color: bisque;
+    width: 700px;
+    display: inline-block;
+}
+
+
+.video-image {
+    width: 300px;
+}
+
+.video-title-p  {
+    display: inline-block;
+    font-size: 20px;
+}
