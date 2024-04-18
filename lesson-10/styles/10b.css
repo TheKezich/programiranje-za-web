@@ -1,0 +1,58 @@
+p {
+    display: inline-block;
+    margin: 0;
+    margin-left: 1
+    2px;
+    vertical-align: top;
+}
+
+
+.div-2 {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+}
+
+.dic-3 {
+    display: inline-block;
+    width: 50px;
+    background-color: bisque;
+ height: 80px;   
+}
+
+.maca-img {
+    width: 50px;
+    display: inline-block;
+    margin: 0px;
+}
+
+.name-p {
+    font-weight: bold;
+
+}
+
+.subtitle-p {
+    color: rgba(142,142,141,255);
+}
+
+.status-p {
+    color: rgba(142,142,141,255);
+    font-size: 12px;
+}
+
+.button-div {
+    display: inline-block;
+    vertical-align: 40px;
+}
+
+
+.folow-btn {
+    display: inline-block;
+    margin-left: 120px;
+    vertical-align: top;
+    vertical-align: 40px;
+    
+}
+
+
+
