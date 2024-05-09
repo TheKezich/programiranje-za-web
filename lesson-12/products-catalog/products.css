@@ -1,0 +1,89 @@
+
+.product-div {
+    padding: 10px;
+    transition: box-shadow 0.15s;
+    font-family: Oswald;
+}
+
+.container-div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 12px ;
+    row-gap: 42px;
+}
+
+.rating-div {
+   display: flex;   
+   background-color: gray;
+align-items: center;
+   
+}
+
+.ratng-img {
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+}
+
+.product-img {
+    width: 100%;
+}
+
+.product-div:hover {
+    box-shadow: 0px 0px 16px 10px rgba(0,0,0,0.1);
+}
+
+
+
+.product-info-link {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    display: block;
+    
+}
+
+.product-info-link:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+
+
+
+
+.rating-count-p {
+    display: inline-block;
+    margin: 4px 0px;
+}
+
+.product-info-p {
+    margin: 4px 0px;
+}
+
+.stock-status-p {
+    color: rgb(117, 175, 29);
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.price-p {
+    color: red;
+    font-weight: 600;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.Asus-img {
+    width: 40%;
+    margin-left: 40px;
+}
+.Acer-img {
+    width: 40%;
+    margin-left: 40px;
+}
+.Lenovo-img {
+    width: 40%;
+    margin-left: 40px;
+}
