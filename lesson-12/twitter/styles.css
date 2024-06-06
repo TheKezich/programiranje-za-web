@@ -1,0 +1,93 @@
+
+.body-class {
+    /* background-color: black; */
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.profile-img {
+    width: 53px;
+    height: 53px;
+    border-radius: 40px;
+    margin-right: 10px;
+}
+
+.user-info-div {
+    display: flex;
+    align-items: center;
+    /* background-color: rgb(233, 101, 101); */
+    padding: 10px 10px;
+
+}
+
+.username-p {
+    flex: 1;
+    color:white;
+    font-weight: 600;
+
+}
+
+.username-span {
+    color: rgb(160, 157, 157);
+    font-weight: 400;
+}
+
+.options-btn {
+    color: white;
+border: none;
+background-color: transparent;
+}
+
+.twitter-post-div {
+    /* background-color: rgb(240, 76, 240); */
+    padding: 6px;
+    background-color: black;
+}
+
+.post-content-p {
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+
+}
+
+.post-inf-p {
+    color: rgb(160, 157, 157);
+}
+
+.stats-p {
+    font-weight: 600;
+    color: white;
+    margin-right: 20px;
+}
+
+.stats-span {
+    color: rgb(160, 157, 157);
+    font-weight: 400;
+
+}
+
+.post-stats-div {
+    display: flex;
+    border-style: solid;
+    border-color: rgb(160, 157, 157);
+    border-width: 1px;
+    border-left: none;
+    border-right: none;
+
+}
+
+.icon-img {
+    width: 20px;
+    height: 20px;
+
+}
+
+.icons-div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: center;
+    padding: 10px;
+}
